@@ -1,0 +1,30 @@
+.text-center{
+    margin-top: 20%;
+    width: 80%;
+    border-width: 3px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px lightblue;
+    border-color: #A9D6E5;
+    background-color:#0B2447 ;
+    color: white;
+    margin-left: 7%;
+}
+.agebackground{
+    background-color: #1B4965;
+    height: 800px;
+    position: fixed;
+    width: 100%;
+}
+.agecalc_input{
+    padding-top: 30px;
+}
+.agecalc_button{
+    padding-top: 30px;
+}
+.age_result{
+    padding-top: 30px;
+}
+.agecalc_return{
+    margin-top: 20px;
+    margin-left: 190px;
+}
